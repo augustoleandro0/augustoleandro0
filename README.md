@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/pedro-leandro-a77a7b1b9/" target="_blank">
      <img src="https://img.icons8.com/color/50/000000/linkedin.png"/>
   </a>
-  <a href="malito:pedroaugustoleandro123@gmail.com"target="_blank">
+  <a href="mailto:pedroaugustoleandro123@gmail.com" target="_blank">
      <img src="https://img.icons8.com/color/50/000000/gmail--v2.png"/>
   </a>
 </div>

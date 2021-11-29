@@ -3,7 +3,7 @@
 
 
 - 👨🏽‍💻 Estudante de programação web front-end
-- 👨🏽‍🏫 Atualmente estudando React e Next JS
+- 👨🏽‍🏫 Atualmente estudando React e Next JS com TypeScript 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoleandro))](https://github.com/anuraghazra/github-readme-stats)
 
